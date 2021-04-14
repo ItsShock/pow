@@ -1,5 +1,5 @@
-function pow() {
-  // Zaimplementuj zadanie zgodnie z wytycznymi
+function pow(number1,number2) {
+  return Math.pow(number1, number2);
 };
 
 module.exports = pow;
